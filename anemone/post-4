@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>anemoneテスト by tadyjp</title>
+
+    <meta name="robots" content="noindex">
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="http://tadyjp.github.io/anemone/">anemoneテスト</a></h1>
+        <p class="view"><a href="post-1">最初の投稿</a></p>
+        <p class="view"><a href="post-2">次の投稿</a></p>
+        <p class="view"><a href="post-3">さらに投稿</a></p>
+        <p class="view"><a href="post-4">またまた投稿</a></p>
+        <p class="view"><a href="post-5">最後の投稿</a></p>
+        <p class="view"><a href="https://github.com/tadyjp">View My GitHub Profile</a></p>
+      </header>
+
+      <section class="contents">
+        <h3>次の投稿・夏目漱石 こころ 四</h3>
+        <p>私わたくしは月の末に東京へ帰った。先生の避暑地を引き上げたのはそれよりずっと前であった。私は先生と別れる時に、「これから折々お宅たくへ伺っても宜よござんすか」と聞いた。先生は単簡たんかんにただ「ええいらっしゃい」といっただけであった。その時分の私は先生とよほど懇意になったつもりでいたので、先生からもう少し濃こまやかな言葉を予期して掛かかったのである。それでこの物足りない返事が少し私の自信を傷いためた。</p>
+        <p>私はこういう事でよく先生から失望させられた。先生はそれに気が付いているようでもあり、また全く気が付かないようでもあった。私はまた軽微な失望を繰り返しながら、それがために先生から離れて行く気にはなれなかった。むしろそれとは反対で、不安に揺うごかされるたびに、もっと前へ進みたくなった。もっと前へ進めば、私の予期するあるものが、いつか眼の前に満足に現われて来るだろうと思った。私は若かった。けれどもすべての人間に対して、若い血がこう素直に働こうとは思わなかった。私はなぜ先生に対してだけこんな心持が起るのか解わからなかった。それが先生の亡くなった今日こんにちになって、始めて解って来た。先生は始めから私を嫌っていたのではなかったのである。先生が私に示した時々の素気そっけない挨拶あいさつや冷淡に見える動作は、私を遠ざけようとする不快の表現ではなかったのである。傷いたましい先生は、自分に近づこうとする人間に、近づくほどの価値のないものだから止よせという警告を与えたのである。他ひとの懐かしみに応じない先生は、他ひとを軽蔑けいべつする前に、まず自分を軽蔑していたものとみえる。</p>
+        <p>私は無論先生を訪ねるつもりで東京へ帰って来た。帰ってから授業の始まるまでにはまだ二週間の日数ひかずがあるので、そのうちに一度行っておこうと思った。しかし帰って二日三日と経たつうちに、鎌倉かまくらにいた時の気分が段々薄くなって来た。そうしてその上に彩いろどられる大都会の空気が、記憶の復活に伴う強い刺戟しげきと共に、濃く私の心を染め付けた。私は往来で学生の顔を見るたびに新しい学年に対する希望と緊張とを感じた。私はしばらく先生の事を忘れた。</p>
+        <p>授業が始まって、一カ月ばかりすると私の心に、また一種の弛たるみができてきた。私は何だか不足な顔をして往来を歩き始めた。物欲しそうに自分の室へやの中を見廻みまわした。私の頭には再び先生の顔が浮いて出た。私はまた先生に会いたくなった。</p>
+        <p>始めて先生の宅うちを訪ねた時、先生は留守であった。二度目に行ったのは次の日曜だと覚えている。晴れた空が身に沁しみ込むように感ぜられる好いい日和ひよりであった。その日も先生は留守であった。鎌倉にいた時、私は先生自身の口から、いつでも大抵たいてい宅にいるという事を聞いた。むしろ外出嫌いだという事も聞いた。二度来て二度とも会えなかった私は、その言葉を思い出して、理由わけもない不満をどこかに感じた。私はすぐ玄関先を去らなかった。下女げじょの顔を見て少し躊躇ちゅうちょしてそこに立っていた。この前名刺を取り次いだ記憶のある下女は、私を待たしておいてまた内うちへはいった。すると奥さんらしい人が代って出て来た。美しい奥さんであった。</p>
+        <p>私はその人から鄭寧ていねいに先生の出先を教えられた。先生は例月その日になると雑司ヶ谷ぞうしがやの墓地にある或ある仏へ花を手向たむけに行く習慣なのだそうである。「たった今出たばかりで、十分になるか、ならないかでございます」と奥さんは気の毒そうにいってくれた。私は会釈えしゃくして外へ出た。賑にぎやかな町の方へ一丁ちょうほど歩くと、私も散歩がてら雑司ヶ谷へ行ってみる気になった。先生に会えるか会えないかという好奇心も動いた。それですぐ踵きびすを回めぐらした。</p>
+      </section>
+
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+      <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type="text/javascript">
+        try {
+          var pageTracker = _gat._getTracker("UA-46286168-1");
+          pageTracker._trackPageview();
+        } catch(err) {}
+      </script>
+  </body>
+</html>

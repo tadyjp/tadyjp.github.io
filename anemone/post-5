@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>anemoneテスト by tadyjp</title>
+
+    <meta name="robots" content="noindex">
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="http://tadyjp.github.io/anemone/">anemoneテスト</a></h1>
+        <p class="view"><a href="post-1">最初の投稿</a></p>
+        <p class="view"><a href="post-2">次の投稿</a></p>
+        <p class="view"><a href="post-3">さらに投稿</a></p>
+        <p class="view"><a href="post-4">またまた投稿</a></p>
+        <p class="view"><a href="post-5">最後の投稿</a></p>
+        <p class="view"><a href="https://github.com/tadyjp">View My GitHub Profile</a></p>
+      </header>
+
+      <section class="contents">
+        <h3>次の投稿・夏目漱石 こころ 五</h3>
+        <p>私わたくしは墓地の手前にある苗畠なえばたけの左側からはいって、両方に楓かえでを植え付けた広い道を奥の方へ進んで行った。するとその端はずれに見える茶店ちゃみせの中から先生らしい人がふいと出て来た。私はその人の眼鏡めがねの縁ふちが日に光るまで近く寄って行った。そうして出し抜けに「先生」と大きな声を掛けた。先生は突然立ち留まって私の顔を見た。</p>
+        <p>「どうして……、どうして……」</p>
+        <p>先生は同じ言葉を二遍へん繰り返した。その言葉は森閑しんかんとした昼の中うちに異様な調子をもって繰り返された。私は急に何とも応こたえられなくなった。</p>
+        <p>「私の後あとを跟つけて来たのですか。どうして……」</p>
+        <p>先生の態度はむしろ落ち付いていた。声はむしろ沈んでいた。けれどもその表情の中うちには判然はっきりいえないような一種の曇りがあった。</p>
+        <p>私は私がどうしてここへ来たかを先生に話した。</p>
+        <p>「誰だれの墓へ参りに行ったか、妻さいがその人の名をいいましたか」</p>
+        <p>「いいえ、そんな事は何もおっしゃいません」</p>
+        <p>「そうですか。――そう、それはいうはずがありませんね、始めて会ったあなたに。いう必要がないんだから」</p>
+        <p>先生はようやく得心とくしんしたらしい様子であった。しかし私にはその意味がまるで解わからなかった。</p>
+        <p>先生と私は通りへ出ようとして墓の間を抜けた。依撒伯拉何々イサベラなになにの墓だの、神僕しんぼくロギンの墓だのという傍かたわらに、一切衆生悉有仏生いっさいしゅじょうしつうぶっしょうと書いた塔婆とうばなどが建ててあった。全権公使何々というのもあった。私は安得烈と彫ほり付けた小さい墓の前で、「これは何と読むんでしょう」と先生に聞いた。「アンドレとでも読ませるつもりでしょうね」といって先生は苦笑した。</p>
+        <p>先生はこれらの墓標が現わす人種々ひとさまざまの様式に対して、私ほどに滑稽こっけいもアイロニーも認めてないらしかった。私が丸い墓石はかいしだの細長い御影みかげの碑ひだのを指して、しきりにかれこれいいたがるのを、始めのうちは黙って聞いていたが、しまいに「あなたは死という事実をまだ真面目まじめに考えた事がありませんね」といった。私は黙った。先生もそれぎり何ともいわなくなった。</p>
+        <p>墓地の区切り目に、大きな銀杏いちょうが一本空を隠すように立っていた。その下へ来た時、先生は高い梢こずえを見上げて、「もう少しすると、綺麗きれいですよ。この木がすっかり黄葉こうようして、ここいらの地面は金色きんいろの落葉で埋うずまるようになります」といった。先生は月に一度ずつは必ずこの木の下を通るのであった。</p>
+        <p>向うの方で凸凹でこぼこの地面をならして新墓地を作っている男が、鍬くわの手を休めて私たちを見ていた。私たちはそこから左へ切れてすぐ街道へ出た。</p>
+        <p>これからどこへ行くという目的あてのない私は、ただ先生の歩く方へ歩いて行った。先生はいつもより口数を利きかなかった。それでも私はさほどの窮屈を感じなかったので、ぶらぶらいっしょに歩いて行った。</p>
+        <p>「すぐお宅たくへお帰りですか」</p>
+        <p>「ええ別に寄る所もありませんから」</p>
+        <p>二人はまた黙って南の方へ坂を下りた。</p>
+        <p>「先生のお宅の墓地はあすこにあるんですか」と私がまた口を利き出した。</p>
+        <p>「いいえ」</p>
+        <p>「どなたのお墓があるんですか。――ご親類のお墓ですか」</p>
+        <p>「いいえ」</p>
+        <p>先生はこれ以外に何も答えなかった。私もその話はそれぎりにして切り上げた。すると一町ちょうほど歩いた後あとで、先生が不意にそこへ戻って来た。</p>
+        <p>「あすこには私の友達の墓があるんです」</p>
+        <p>「お友達のお墓へ毎月まいげつお参りをなさるんですか」</p>
+        <p>「そうです」</p>
+        <p>先生はその日これ以外を語らなかった。</p>
+      </section>
+
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+      <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type="text/javascript">
+        try {
+          var pageTracker = _gat._getTracker("UA-46286168-1");
+          pageTracker._trackPageview();
+        } catch(err) {}
+      </script>
+  </body>
+</html>
